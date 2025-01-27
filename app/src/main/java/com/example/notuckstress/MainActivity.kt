@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             NoTuckStressTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "シルバニアファミリー",
+                        name = "testしてますわ",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
